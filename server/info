@@ -1,0 +1,25 @@
+
+
+
+
+
+sshfs#youtube@93.88.74.33:/var/www/youtube/data/www/s1/public/storage/ /var/www/youtube/data/www/lumen-youtubedl.com/server/1/ fuse uid=music,gid=music,allow_other,transform_symlinks,default_permissions,reconnect,_netdev,intr 0 0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://tecadmin.net/mount-and-unmount-filesystem-in-linux/
